@@ -1,6 +1,5 @@
 /*
 Author: Mustafa Can İnce
-Student Id: 200709081
 Date : June 2021
  */
 

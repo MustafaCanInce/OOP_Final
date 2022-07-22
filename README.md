@@ -1,7 +1,7 @@
 # OOP_Final
 
 ## A. Class Diagram
-<link>
+https://github.com/MustafaCanInce/OOP_Final/blob/master/class_diagram.PNG
 
 ## B. What are the differences between an abstract class and a concrete class?
 
